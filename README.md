@@ -11,9 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandros-o&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
-![Imagem_capa](https://github.com/MonthAlcantara/MonthAlcantara/blob/master/github.jpg)
-
 ## Hello World!
 :man_technologist: Apaixonado por tecnologia e desenvolvimento Web Java
 
