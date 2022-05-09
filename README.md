@@ -28,7 +28,6 @@
 - [x] Spring Boot
 - [x] HTML | CSS (em andamento)
 - [x] MySQL | H2
-- [x] Oracle SQL Especialista (em andamento)
 - [x] Git | Git Flow
 - [x] Eclipse | VSCode | Postman 
 - [x] Metodologia Ágil
