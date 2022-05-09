@@ -15,7 +15,7 @@
 :man_technologist: Apaixonado por tecnologia e desenvolvimento Web Java
 
 ## Experiência Profissional
-- Em transição de carreira - Práticas em projetos próprios
+- Software Developer - (Iteris) - 05/2022
 
 ## Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (Ampli) - 2021 - 2023
