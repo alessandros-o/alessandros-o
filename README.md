@@ -20,18 +20,17 @@
 ## Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (Ampli) - 2021 - 2023
 - 🎓 Desenvolvedor Back End Java - (Cod3r) - 2021
-- 🎓 Formação Full Stack - ONE - (Oracle / Alura) - 2021 (em andamento)
 
 
 ## :octocat:  Principais Habilidades
 - [x] Java
-- [x] Spring Boot
-- [x] HTML | CSS (em andamento)
-- [x] MySQL | H2
+- [x] Spring Boot | JUnit
+- [x] HTML | CSS
+- [x] MySQL | H2 | SQLServer
 - [x] Git | Git Flow
-- [x] Eclipse | VSCode | Postman 
+- [x] IntelliJ IDEA | Eclipse | VSCode | Postman 
 - [x] Metodologia Ágil
-
+- [x] Docker | Maven
 
 ## Certificações
 - [Formação Business Agility](https://cursos.alura.com.br/degree/certificate/e9ecd7da-bd2d-41de-9ac1-1e3c8409a970)
