@@ -24,7 +24,7 @@
 
 ## :octocat:  Principais Habilidades
 - [x] Java
-- [x] Spring Boot | JUnit
+- [x] Spring Boot | JUnit | Swagger
 - [x] HTML | CSS
 - [x] MySQL | H2 | SQLServer
 - [x] Git | Git Flow
