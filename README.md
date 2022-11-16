@@ -34,9 +34,6 @@
 - [x] Metodologia Ágil
 - [x] Docker | Maven
 
-## Certificações
-- [Formação Business Agility](https://cursos.alura.com.br/degree/certificate/e9ecd7da-bd2d-41de-9ac1-1e3c8409a970)
-
 
 ## Postagens e Artigos
 - [Gitflow no Eclipse](https://www.linkedin.com/posts/alessandros-oliveira_java-developer-backenddeveloper-activity-6901635985483132928-IgxK)
