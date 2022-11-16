@@ -20,6 +20,7 @@
 ## Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (Ampli) - 2021 - 2023
 - 🎓 Desenvolvedor Back End Java - (Cod3r) - 2021
+- 🎓 Formação Spring - (Alura) - 2022
 
 
 ## :octocat:  Principais Habilidades
