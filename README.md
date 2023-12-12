@@ -33,6 +33,9 @@
 - [x] IntelliJ IDEA | Eclipse | VSCode | Postman 
 - [x] Metodologia Ágil
 - [x] Docker | Maven
+- [x] AWS SQS, S3, DynamoDB, Batch
+- [x] Spring Batch
+- [x] API Gateway Sensedia
 
 
 ## Postagens e Artigos
