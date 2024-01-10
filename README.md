@@ -26,15 +26,15 @@
 ## :octocat:  Principais Habilidades
 - [x] Java
 - [x] Spring Framework | Swagger
-- [x] JUnit | Mockito
+- [x] JUnit | Mockito | Cucumber
 - [x] HTML | CSS
-- [x] MySQL | H2 | SQLServer
+- [x] MySQL | H2 | SQLServer | Oracle | MongoDB
 - [x] Git | Git Flow | Azure Devops
-- [x] IntelliJ IDEA | Eclipse | VSCode | Postman 
+- [x] IntelliJ IDEA | Eclipse | VSCode | Postman
 - [x] Metodologia Ágil
 - [x] Docker | Maven
 - [x] AWS SQS, S3, DynamoDB, Batch
-- [x] Spring Batch
+- [x] Spring Batch | Spring Security | JWT
 - [x] API Gateway Sensedia
 
 
