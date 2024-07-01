@@ -35,7 +35,7 @@
 - [x] Docker | Maven
 - [x] AWS SQS, S3, DynamoDB, Batch
 - [x] Spring Batch | Spring Security | JWT
-- [ ] Spring Data | Hibernate | JPA
+- [x] Spring Data | Hibernate | JPA
 - [x] API Gateway Sensedia
 - [x] RabbitMQ | Kafka
 
