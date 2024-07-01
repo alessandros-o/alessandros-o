@@ -15,7 +15,7 @@
 :man_technologist: Apaixonado por tecnologia e desenvolvimento Web Java
 
 ## Experiência Profissional
-- Software Developer - (Iteris) - 05/2022
+- Backdend Software Developer - (Iteris) - 05/2022 até o momento
 
 ## Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (Ampli) - 2021 - 2023
