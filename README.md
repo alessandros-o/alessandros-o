@@ -12,13 +12,14 @@
 </div>
 
 ## Hello World!
-:man_technologist: Apaixonado por tecnologia e desenvolvimento Web Java
+:man_technologist: Analista de Sistemas e Desenvolvedor Java
 
 ## Experiência Profissional
-- Backdend Software Developer - (Iteris) - 05/2022 até o momento
+- Backdend Software Developer - (Iteris) - 05/2022 a 12/2024
+- Systems Analyst and Backdend Software Developer - (Alelo) - 01/2025 até o momento
 
 ## Formações
-- 🎓 Graduando em Análise e desenvolvimento de Sistemas - (Ampli) - 2021 - 2023
+- 🎓 Graduando em Análise e desenvolvimento de Sistemas - (Ampli) - 2021 - 2025
 - 🎓 Desenvolvedor Back End Java - (Cod3r) - 2021
 - 🎓 Formação Spring - (Alura) - 2022
 
